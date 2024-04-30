@@ -1,12 +1,25 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <div>
-	<h1>회사소개</h1>
-	<h3>What is Lorem Ipsum?</h3>
-	<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-	<h3>What is Lorem Ipsum?</h3>
-	<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-	<h3>What is Lorem Ipsum?</h3>
-	<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+	<h1>프리미어리그</h1>
+	<h3>빅6</h3>
+	<p>잉글랜드 프리미어 리그에서 높은 수준의 스쿼드 전력과 재정 능력을 보유한 6개의 빅클럽을 의미하는 축구 용어. <br>2010년대에 정립된 현재의 체제는 보통 맨체스터 시티 FC, 맨체스터 유나이티드 FC, 리버풀 FC, 아스날 FC, 토트넘 홋스퍼 FC, 첼시 FC를 의미한다.</p>
+	<h5>맨체스터 시티 FC</h5>
 	
+	<h5>맨체스터 유나이티드 FC</h5>
+	<p>영국 잉글랜드 그레이터맨체스터 주의 트래포드를 연고로 하는 프로축구 구단이다. 뉴턴 히스 LYR F.C.(Newton Heath LYR F.C.)라는 이름으로 창설되었다. 1902년 4월 26일 지금의 이름인 맨체스터 유나이티드 F.C.로 개칭하였고, 1910년에는 홈 경기장을 맨체스터 시 동북쪽의 뱅크 스트리트[19]에서 서남쪽의 올드 트래포드로 이전했다.
+
+잉글랜드 최초의 유러피언컵 우승팀이자, 잉글랜드 클럽 발롱도르 수상자 최다 배출, 그리고 현재 잉글랜드 최상위 프로 축구 리그 최다 우승팀이자, 잉글랜드에서 최초로 트레블 달성 기록을 보유하고 있다. 하지만 알렉스 퍼거슨 감독이 떠난 이후 각종 문제가 곪아 터지며, 인기와 명성은 여전히 이어갈 지언정 현재는 상당히 몰락한 상황이다.</p>
+		
+	<h5>리버풀 FC</h5>
+	<p>리버풀 FC는 영국 잉글랜드 머지사이드 주의 리버풀을 연고로 하는 프로 축구 구단이다. <br>잉글랜드 프리미어 리그에 소속되어 있으며, 홈구장은 안필드다. <br>잉글랜드 1부 리그 누적 승점 1위 이자 잉글랜드 구단 중 가장 많은 메이저 트로피와 더불어 모든 유럽 대항전 최다 우승 기록을 보유했으며, 특히 잉글랜드 구단 중 UEFA 챔피언스 리그 최다 우승 구단으로서 잉글랜드에서 유일하게 빅 이어를 영구 소장한 구단이다.</p>
+		
+	<h5>아스날 FC</h5>
+	<p>영국 잉글랜드 런던을 연고로 하는 프로축구단이다. <br>소속 리그는 프리미어 리그, 홈 구장은 에미레이트 스타디움이다. <br>1부 리그 통산 13회 우승 기록을 보유하고 있다. 특히 프리미어 리그 출범 이후 유일한 무패 우승과 FA컵 역대 최다 우승, 그리고 1부 리그 누적 승점 2위 등의 기록을 보유하고 있다. 또한 아스날은 2023-24 시즌 기준 잉글랜드 프로축구 최상위 리그에 98시즌 연속 참가 중이며, 이는 최다 연속 참가 기록이다.</p>
+			
+	<h5>토트넘 홋스퍼 FC</h5>
+	<p>영국 잉글랜드의 프리미어 리그 소속 프로 축구단. <br>연고지는 런던, 홈구장은 토트넘 홋스퍼 스타디움이다. <br>프리미어 리그 최고 성적은 2016-17 시즌 2위, UEFA 챔피언스 리그 최고 성적은 2018-19 시즌의 준우승이며 UEFA 유로파 리그 초대 우승팀이다. 또한 프리미어 리그 득점왕을 최다 배출한 클럽이다 (13번).</p>
+		
+	<h5>첼시 FC</h5>
+	<p>영국 잉글랜드 프리미어 리그의 프로 축구 클럽. 연고지는 런던 해머스미스 앤 풀럼. <br> 홈구장은 스탬퍼드 브리지다. <br> 영국 클럽 중 최초로 UEFA 3대 메이저 대회를 모두 제패했고 런던 클럽 중 유일하게 UEFA 챔피언스리그, FIFA 클럽 월드컵에서 모두 우승한 구단이다.</p>
 </div>

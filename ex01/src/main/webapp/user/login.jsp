@@ -36,6 +36,28 @@
 		}
 		else{
 			//로그인체크
+			$.ajax({
+				type : "post",
+				url : "/user/login",
+				data : {uid, upass},
+				success : function(data){
+					if(data==0) {
+						alert("아이디가 존재하지 않습니다.");
+						$(frm.uid).val("");
+						$(frm.uid).focus();
+					}
+					else if(data==2) {
+						alert("비밀번호가 일치하지 않습니다.");
+						$(frm.upass).val("");
+						$(frm.upass).focus();
+					}
+					else {
+						alert("로그인을 성공했습니다.")
+						location.href="/";
+					}
+					
+				}
+			})
 		}
 	});
 </script>
